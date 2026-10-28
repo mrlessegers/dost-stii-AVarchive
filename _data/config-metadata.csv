@@ -1,15 +1,25 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+identifier,Accession Number,,
+title,Title,,
+alternative,Alternative / Additional Titles,,
+pub_place,Place of Production / Release,,
+publisher,Production Company / Broadcaster,,
+date,Date of Production,,
+language,Language,,
+description,Summary / Description,,
+extent,Extent,,
+medium,Specific Format,,
+broadcast_standard,Broadcast Standard,,
+run_time,Running Time,,
+color,Color,,
+sound,Audio,,
+sequence,Sequence,,
+notes,Notes,,
+creator,Main Creator,true,
+cast,Cast / Participants / Performers,true,
+crew,Crew,true,
+subject,Subjects,true,
+location,Location Depicted,true,
+form,Form / Genre,true,
+source,Related Collections,true,
+relation,Related Items,true,
