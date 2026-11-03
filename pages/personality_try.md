@@ -1,7 +1,7 @@
 ---
 title: Personalities
 layout: cloud
-permalink: /personalities.html
+permalink: /personalities_1.html
 cloud-fields: creator;cast;crew
 ---
 
