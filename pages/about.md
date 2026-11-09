@@ -12,4 +12,4 @@ credits: true
 
 This database is about Nora Aunor and her cinematic legacy. 
 
-![This is an alt text.](/objects/Feb-13_PH_2_1270.jpg "This is a sample image.")
+![](/objects/Feb-13_PH_2_1270.jpg "This is a sample image.")
